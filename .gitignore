@@ -1,0 +1,7 @@
+/.idea
+cmake-build-*
+build/
+
+# swap
+*.kate-swp
+*.swp
